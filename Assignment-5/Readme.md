@@ -27,5 +27,5 @@ Able to understand movie dataset and tried to predict movie collection.
 ## Interpretation
 Captured 94% accuracy with R-squared statsmodels.
 
-## Prediction
+## Results
 Got 72% accuracy for training data and 50% for test data, Attempted regularization with ridge and lasso, but found no benifit of adding.
