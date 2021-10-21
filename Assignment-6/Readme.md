@@ -20,7 +20,8 @@ This dataset is classification problem, determining whether or not an individual
 
 # Observation
 **Solvers:**
-- For small datasets, liblinear is a good choice, whereas sag and saga are faster for large ones.
+- For small datasets, liblinear is a good choice, whereas sag and saga are faster for large ones.  
+
 **Regularization strengths:**
 - I have choosen these values [0.5,1.0,1.5,10,20].
 - The reason behind choosing these values because smaller values specify stronger regularization.
